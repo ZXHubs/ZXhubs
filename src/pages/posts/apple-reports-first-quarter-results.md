@@ -1,7 +1,7 @@
 ---
 layout: '../../layouts/MarkdownPost.astro'
 title: 'Apple 公布第一季度业绩'
-pubDate: 2035-03-01
+pubDate: 2022-03-01
 description: '活跃设备现有使用量突破 20 亿大关，在所有主要产品类别均创下历史新高'
 author: 'Apple Newsroom'
 cover:

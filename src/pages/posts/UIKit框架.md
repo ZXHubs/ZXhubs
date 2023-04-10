@@ -1,7 +1,7 @@
 ---
 layout: '../../layouts/MarkdownPost.astro'
 title: 'UIKit 框架'
-pubDate: 2036-01-01
+pubDate: 2023-01-01
 description: '描述 UIKit 框架'
 author: 'ZhangX'
 cover:

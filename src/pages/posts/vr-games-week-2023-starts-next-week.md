@@ -1,7 +1,7 @@
 ---
 layout: '../../layouts/MarkdownPost.astro'
 title: '2023年VR游戏周即将到来！'
-pubDate: 2023-04-17
+pubDate: 2022-04-17
 description: 'Vr Games Week 2023 Starts Next Week'
 author: '虚幻引擎官网'
 cover:

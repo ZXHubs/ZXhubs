@@ -1,7 +1,7 @@
 ---
 layout: '../../layouts/MarkdownPost.astro'
 title: '毕业第一年：从学生向3D美术师的转变'
-pubDate: 2035-8-01
+pubDate: 2022-8-01
 description: '如何从学校踏入暴雪娱乐、DNEG等游戏和视觉特效巨擘，经历鼓舞人心的三位3D美术师给出了他们的专业建议。'
 author: '虚幻引擎官网'
 cover:

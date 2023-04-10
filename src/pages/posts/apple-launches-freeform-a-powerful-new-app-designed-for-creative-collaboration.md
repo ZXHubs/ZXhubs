@@ -1,7 +1,7 @@
 ---
 layout: '../../layouts/MarkdownPost.astro'
 title: 'Apple 推出为头脑风暴和创意协作设计的全新强大 app 无边记'
-pubDate: 2035-04-01
+pubDate: 2022-04-01
 description: 'iPhone、iPad 及 Mac 版无边记让视觉化协作更轻松。'
 author: 'Apple Newsroom'
 cover:

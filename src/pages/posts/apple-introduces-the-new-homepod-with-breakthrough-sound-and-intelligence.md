@@ -1,7 +1,7 @@
 ---
 layout: '../../layouts/MarkdownPost.astro'
 title: 'Apple 推出新款 HomePod，带来突破性音质与智能体验'
-pubDate: 2035-03-25
+pubDate: 2022-03-25
 description: '呈现出类拔萃的音质、增强的 Siri 功能以及安全放心的智能家居体验'
 author: 'Apple Newsroom'
 cover:
